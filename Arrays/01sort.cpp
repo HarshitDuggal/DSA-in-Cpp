@@ -30,13 +30,13 @@
 //   sort(arr,8);
 //   printArray(arr,8);
 // }
-#include<iostream>
-#include <bits/stdc++.h>
-using namespace std;
-int main(){
-  vector<int> ans(3,0);
-  for (int x : ans){
-        cout << x << " ";
-  }
-  cout << endl <<ans.size();
-}
+// #include<iostream>
+// #include <bits/stdc++.h>
+// using namespace std;
+// int main(){
+//   vector<int> ans(3,0);
+//   for (int x : ans){
+//         cout << x << " ";
+//   }
+//   cout << endl <<ans.size();
+// }
