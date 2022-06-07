@@ -1,0 +1,1 @@
+// 1.	Design a Lexical analyzer. The lexical analyzer should ignore redundant blanks, tabs and new lines. It should also ignore comments. Although the syntax specification s those identifiers can be arbitrarily long, you may restrict the length to some reasonable Value
