@@ -2,7 +2,7 @@
 
 // using namespace std;
 
-// void sortedArrays(int *arr,int s,int e){
+// void sortedArrays(int arr[],int s,int e){
 //   int mid = (s+e)/2;
 //   int len1= mid-s+1;
 //   int len2 = e-mid;
@@ -40,7 +40,7 @@
 // }
 
 
-// void mergeSort(int *arr,int s,int e){
+// void mergeSort(int arr[],int s,int e){
 //   if(s>=e){
 //     return ;
 //   }
