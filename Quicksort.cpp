@@ -45,3 +45,20 @@
 //     cout << arr[i] << " ";
 //   }
 // }
+
+// #include <iostream>
+// #include<vector>
+// using namespace std;
+// int main(){
+//   int a = 13;
+//   int b =2;
+//   cout << a%b;
+  // vector<int> nums = {6 13 4 14 3 3 14};
+  // vector<int> temp  = nums;
+  // for(int i =0; i<nums.size();i++){
+  //   cout << nums[i] << endl ;  
+  // }
+  //   for(int i =0; i<temp.size();i++){
+  //   cout << temp[i] << endl ;  
+  // }
+// }
